@@ -36,7 +36,7 @@ module.exports = {
           },
         },
         // url: process.env.WPGRAPHQL_URL,
-        url: `https://themeplugs.com/plugin/graphql`,
+        url: `https://www.nesseuniverso.com/graphql`,
         verbose: true,
         develop: {
           hardCacheMediaFiles: false,
